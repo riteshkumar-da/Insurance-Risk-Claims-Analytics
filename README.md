@@ -18,7 +18,6 @@ This project focuses on analyzing insurance policy and claims data to help stake
 - Customer demographic data
 - Vehicle information (car make, car year, usage type)
 
-*(Sample / simulated insurance dataset used for analysis purposes)*
 
 ## 📊 Features / Highlights
 
