@@ -7,11 +7,23 @@ This project focuses on analyzing insurance policy and claims data to help stake
 
 ## 🛠 Tech Stack
 - Power BI
+- DAX (Data Analysis Expressions)
 - Microsoft Excel
 - Data Modeling
 - Data Cleaning & Transformation
 - Interactive Visualizations
 
+## 🧮 DAX Measures Used
+
+Custom DAX measures were created to support KPI calculations and dynamic analysis across visuals:
+
+- **Total Policies** – Counts active insurance policies.
+- **Total Claim Amount** – Calculates total financial impact of claims.
+- **Claim Frequency** – Measures how frequently claims are filed.
+- **Average Claim Amount** – Evaluates claim severity and risk exposure.
+- **Dynamic Measure Selection** – Enables switching between *Total Policies* and *Total Claim Amount* across all visuals using slicers.
+
+These DAX measures ensure accurate aggregation, improve performance, and allow flexible, interactive analysis across multiple dimensions.
 ## 📂 Data Source
 - Insurance policy data
 - Insurance claims data
